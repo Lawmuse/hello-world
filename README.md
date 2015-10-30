@@ -1,2 +1,2 @@
 # hello-world
-hello world repository for github
+Hello world! I'm learning functional programming with Haskell on edx mooc.
